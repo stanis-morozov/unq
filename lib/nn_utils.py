@@ -56,7 +56,7 @@ class OneCycleSchedule:
 
 
 def to_one_hot(y, depth=None):
-    r"""
+    """
     Takes integer with n dims and converts it to 1-hot representation with n + 1 dims.
     The n+1'st dimension will have zeros everywhere but at y'th index, where it will be equal to 1.
     Args:
