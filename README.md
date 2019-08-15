@@ -5,7 +5,7 @@ Supplementary Code for Unsupervised Neural Quantization for Compressed-Domain Si
 It trains a neural network that maps database vectors in 8- or 16-byte codes optimized for nearest neighbor search.
 ![img](./images/model.png)
 
-# What do i need to run it?
+# What do I need to run it?
 * A machine with some CPU (preferably 8+) and a GPU
   * Running with no GPU or less than 4 CPU cores may cause premature senility;
 * Some popular Linux x64 distribution
